@@ -1,16 +1,73 @@
-# React + Vite
+# 🚀 Personal Portfolio – React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website built with **React.js**.  
+This project showcases my skills, projects, and learning journey as a **Junior Frontend / Full-Stack Developer**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👨‍💻 About Me
 
-## React Compiler
+I am a junior developer passionate about web development, especially **React.js**.  
+This portfolio represents my work, practice projects, and progress as I continue to grow in frontend and full-stack development.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Responsive Design
+- Git & GitHub
+
+---
+
+## 📂 Features
+
+- Modern and clean UI
+- Responsive design (mobile & desktop)
+- Projects showcase
+- About section
+- Contact section
+- Easy navigation
+
+---
+
+## 📸 Preview
+
+> You can add screenshots or a GIF of your portfolio here  
+> (recommended for better visibility on GitHub)
+
+---
+
+## 🌐 Live Demo
+
+🔗 **Deployed on Vercel**  
+(Add your live link here if available)
+
+---
+
+## 📁 Projects Included
+
+- Frontend projects built with React
+- Practice applications (CRUD, UI components, state management, etc.)
+- Learning-based projects created during my training and self-study
+
+---
+
+## 🚧 Notes
+
+This portfolio focuses mainly on **frontend development**, as I am still at the **beginning of my career**.  
+Backend and advanced features will be added progressively in future updates.
+
+---
+
+## 📬 Contact
+
+- GitHub: [https://github.com/your-username](https://github.com/HbibiMohamedAmine)
+- LinkedIn: [https://linkedin.com/in/your-profile](https://www.linkedin.com/in/mohamed-amine-hbibi-b562a92b8/)
+
+---
+
+⭐ Feel free to star this repository if you like it!
