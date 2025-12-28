@@ -117,7 +117,7 @@ export const projects = [
     description:
       "Full-stack web application for a coffee shop, allowing users to browse the menu, place orders, and manage products through an admin interface.",
     image:
-      "../../public/images/screenshot1.png",
+      "/images/Screenshot1.png",
     technologies: ["React", "Node.js", "Express", "CSS3"],
     category: "Frontend",
     liveUrl: "https://roots-coffe-shop-qmwq.vercel.app/",
@@ -130,7 +130,7 @@ export const projects = [
     description:
       "Personal project recreating the Starbucks homepage to practice responsive design using Bootstrap 5 and CSS.",
     image:
-      "../../public/images/screenshot11.png",
+      "/images/Screenshot11.png",
     technologies: ["HTML5", "CSS3", "Bootstrap 5"],
     category: "Landing Page",
     liveUrl: "https://starbucks-landing-page-pink-tau.vercel.app/",
@@ -143,7 +143,7 @@ export const projects = [
     description:
       "🧽 SpongeWorld - An interactive SpongeBob-themed website built with React.js, Bootstrap, and CSS animations. Features an animated navbar, carousel, character cards, photo gallery, and contact section. A fun project to practice modern web development techniques!",
     image:
-      "../../public/images/screenshot2.png",
+      "/images/screenshot2.png",
     technologies: ["React", "Bootstrap", "CSS3", "React-Bootstrap"],
     category: "Landing Page",
     liveUrl: "https://sponge-world.vercel.app/",
@@ -156,7 +156,7 @@ export const projects = [
     description:
       "A responsive React web application showcasing RIHA perfumes with interactive product cards, carousel, contact section, and light/dark theme toggle.",
     image:
-      "../../public/images/screenshot5.png",
+      "/images/Screenshot5.png",
     technologies: ["React", "CSS3", "React bootstrap", "Bootstrap 5"],
     category: "Landing Page",
     liveUrl: "https://riha-perfumes-showcase.vercel.app/",
@@ -169,7 +169,7 @@ export const projects = [
     description:
       "Karkid is a modern React.js web application featuring a clean, responsive interface. It includes a structured layout with a dynamic navbar, an interactive carousel, informative card groups, and a well-organized footer with contact and form sections.",
     image:
-      "../../public/images/screenshot 22.png",
+      "/images/Screenshot-22.png",
     technologies: ["React","CSS3","React-Bootstrap","Bootstrap 5"],
     category: "Landing Page",
     liveUrl: "https://cars-kids.vercel.app/",
@@ -182,7 +182,7 @@ export const projects = [
     description:
       "Cinémax is a modern React app for discovering movies and series. Built with Tailwind CSS v3 and DaisyUI, it features carousels, cards, navigation bar, and contact form—all in a sleek, responsive design inspired by film websites.",
     image:
-      "../../public/images/screenshot4.png",
+      "/images/Screenshot4.png",
     technologies: ["React", "Tailwind CSS","DaisyUI"],
     category: "Landing Page",
     liveUrl: "https://cin-max-movie.vercel.app/",
@@ -194,7 +194,7 @@ export const projects = [
   title:"Movie Cards with Dynamic Routing",
   category:"React",
   description:"React project featuring movie cards with dynamic routing, animations, and detailed pages using React Router.",
-  image:  "../../public/images/screenshot 44.png",
+  image:  "/images/Screenshot-44.png",
    technologies: ["React", "React Router", "JavaScript", "CSS"],
    liveUrl:"https://react-movie-cards-routing.vercel.app/",
     githubUrl:"https://github.com/HbibiMohamedAmine/react-movie-cards-routing",
@@ -206,7 +206,7 @@ export const projects = [
     category:"React",
     description:"React project demonstrating protected routes combined with dynamic routing using React Router.",
     image:
-      "../../public/images/screenshot 33.png",
+      "/images/Screenshot-33.png",
     technologies: ["React", "React Router", "JavaScript", "CSS"],
     liveUrl:"https://react-dynamic-protected-routing.vercel.app/about",
     githubUrl:"https://github.com/HbibiMohamedAmine/react-dynamic-protected-routing",
@@ -218,7 +218,7 @@ export const projects = [
     category:"Frontend",
     description:"Modern café website built with React and Tailwind CSS, featuring menu, contact, location, and about sections powered by static data.",
     image:
-      "../../public/images/screenshot 55.png",
+      "/images/Screenshot-55.png",
     technologies: ["React", "Tailwind CSS", "JavaScript", "CSS","React Router"],
     liveUrl:"https://cafe-adore-react-website.vercel.app/",
     githubUrl:"https://github.com/HbibiMohamedAmine/Cafe-Adore-React-Website",
